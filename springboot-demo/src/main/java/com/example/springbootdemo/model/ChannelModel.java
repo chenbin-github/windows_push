@@ -7,8 +7,8 @@ package com.example.springbootdemo.model;
  */
 public class ChannelModel {
 	
-	public static void main(String[] args) {
-		System.out.println("我添加了新的分支dev");
+	public static void create(){
+		System.out.println("我从dev分支创建了一个新分支，用于我自己来开发！");
 	}
 
 }
